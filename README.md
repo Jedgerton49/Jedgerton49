@@ -1,4 +1,4 @@
-### Hi there 👋
+﻿### Hi there 👋
 
 <!--
 **Jedgerton49/Jedgerton49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Joel Edgerton
+jedgerton@my.waketech.edu
+My github account is for school assignments
+This repository is for a lab
+I cloned the repository on to my local computer by choosing clone from the Github desktop.
